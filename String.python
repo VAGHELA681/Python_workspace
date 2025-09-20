@@ -1,0 +1,44 @@
+#string 
+
+"""
+str_1 = "vaghela"
+str_2 = "madhuri"
+full_name = str_1 + str_2
+print(str_1 + str_2)
+print(full_name)
+
+"""
+
+#indexting
+
+"""
+
+str = "apna college"
+print(str[0])  #a
+
+#slicing
+
+print (str[1:4])
+print(str[  :4])
+print(str[4 : ])
+print(str[-3 : 5])
+print(str[2 : -1])
+
+"""
+
+#string function
+
+"""
+
+str = "apna college"
+str = "madhurii" # valve change
+
+print(len(str)) #12
+print(str.endswith("ege")) #True
+print(str.capitalize()) #Apna college
+print(str.replace("a" , "p")) #ppna college
+print(str.find("p")) #1
+print (str) #orignal string 
+print(str.count("i")) #2
+
+"""

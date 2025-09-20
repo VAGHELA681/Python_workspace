@@ -1,0 +1,78 @@
+#operater ✓
+
+#Arithmetic operater
+"""
+a = 10
+b = 20
+print (a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(a**b)
+
+"""
+#Assigment operater
+
+"""
+a  = 10
+b = 20
+sum = a=+b
+print (sum)
+
+"""
+"""
+a  = 10
+b = 20
+diff = a=-b
+print (diff)
+
+"""
+"""
+a = 40
+b = 40
+mul = a=*b
+print(mul)
+
+"""
+"""
+a  = 10
+b = 20
+div = a=/b
+print (div)
+
+"""
+"""
+a  = 10
+b = 20
+rem = a=%b
+print (rem)
+
+"""
+# Relational // comparison operater
+
+"""
+a =10
+b = 20
+
+print(a==b) #false
+print(a<b) #true
+print(a>b) #false
+print(a<=b) #true
+print(a>=b) # false
+
+"""
+#logical operater
+
+a = 20
+b = 40
+print(a and b)
+print(a or b)
+#print(a not b)
+print(a != b)
+
+
+
+
+
+

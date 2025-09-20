@@ -1,0 +1,24 @@
+#variable ✓
+name = "madhuri"
+age = 28
+price = 25.0
+result = True
+
+
+print (name)
+print (type(name))
+#print (age2)
+print (price)
+print (type(result))
+
+
+age2 = 60
+sur_name = "vaghela"
+email_id01 = "vaghelamadhuri@gmail.com"
+_result = False 
+
+print (age2)
+print (type(sur_name))
+print (email_id01)
+print (_result)
+print (type(result))

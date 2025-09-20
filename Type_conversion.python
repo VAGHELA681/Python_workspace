@@ -1,0 +1,22 @@
+#type counversion  
+
+"""
+a = 4
+b = 2
+sum = a+b
+print (sum)
+
+"""
+"""
+a = 1 
+b = "2"  #string valve
+sum = a + b
+print (sum)
+
+"""
+
+#type casting
+a = 1
+b = int("2")
+sum = a+b
+print (sum)
